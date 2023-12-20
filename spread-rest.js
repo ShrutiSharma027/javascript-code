@@ -37,8 +37,8 @@ const company={
 const Qualification={
     "Std":"Graduate"
 }
-const PI={
-    "Age":30
+const PI={ 
+    "Age":300
 }
 // console.log(basic.Firstname)
 // console.log(company.Companyname)
