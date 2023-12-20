@@ -1,11 +1,11 @@
-// rest
+// ------------------------------------------rest
 // function age(age1,age2,age3,...other_ages){
 //     console.log(age1,age2,age3)
 //     console.log(other_ages)
 // }
 // age(20,30,40,50,60)
 
-// spread
+// -------------------------------------------spread
 // let arr=[10,20,30]
 // let arr1=[...arr,40,50]
 // console.log(arr1)
@@ -61,6 +61,16 @@ const profile={...basic,...company,...Qualification,...PI}
 // console.log(join)
 
 
-const str=['my','name','is','kwl']
-console.log(...str)
+// const str=['my','name','is','kwl']
+// console.log(...str)
+
+// let arr='Learning JS'
+// let a=[...arr]
+// console.log(a)
+
+function names() {
+    const arg=[...arguments]
+    console.log(arg)
+}
+names('ABC','XYZ')
 
