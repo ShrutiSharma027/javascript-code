@@ -6,7 +6,7 @@ let Laptop1={
     Name:"HP",
     Warranty:"2 years",
     Price:"35000",
-    Batterbackup:"2 years",
+    Batterybackup:"2 years",
     Size:"32 inch"
 };
 

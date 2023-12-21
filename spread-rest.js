@@ -6,10 +6,10 @@
 // age(20,30,40,50,60)
 
 // -------------------------------------------spread
-// let arr=[10,20,30]
-// let arr1=[...arr,40,50]
-// console.log(arr1)
-// console.log(arr)
+let arr=[10,20,30]
+let arr1=[...arr,40,50]
+console.log(arr1)
+console.log(arr)
 
 // let laptop1=["Dell",50000,2]
 // let laptop2=["Lenovo",65000,3]
